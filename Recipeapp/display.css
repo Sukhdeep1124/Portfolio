@@ -1,0 +1,71 @@
+body {
+	background-color: #FBF3FA;
+	margin:0;
+	display: flex;
+	align-items:  center;
+	justify-content: center;
+	min-height: 100vh;
+}
+.box{
+	background-color: white;
+	height: 40rem;
+	width: 30rem;
+	border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px #aaaaaa;
+	overflow: hidden;
+}
+.logo{
+	height: 40px;
+	width: 100px;
+    margin-left: -3rem;
+    
+}
+.img{
+	height: 70px;
+	width: 70px;
+	box-shadow: 5px 5px 5px 5px #aaaaaa;
+	margin-left: 10px;
+}
+h6{
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.personal{
+	height:11rem;
+	width: 85%;
+	background: linear-gradient(to right, #66ccff 40%, #ccccff 90%);
+
+	margin-left: 40px;
+	border-radius: 10px;
+}
+.heading{
+    margin-left: 50px;
+	color:white;
+    font-size: 20px;
+    font-style: bold;
+}
+.text{
+	margin-left: 50px;
+	color: white;
+	font-style: bold;
+}
+.perbtn{
+	width: 15rem;
+	border-radius:20px;
+	margin-left: 5rem;
+}
+.card1{
+  height: 15rem;
+  width: 90%;
+  margin-left: 25px;
+  
+}
+.heading1{
+	
+	margin-left: 20px;
+	font-size: 20px;
+	padding: 20px;
+}
+.checked {
+  color: orange;
+}
